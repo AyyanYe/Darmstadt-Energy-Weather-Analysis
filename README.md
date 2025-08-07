@@ -96,6 +96,6 @@ Run the cells sequentially to fetch data, simulate energy, perform EDA, hypothes
 This project is licensed under the MIT License.
 
 ## Author
-**Ayyan Ahmed**
-[GitHub Profile](https://github.com/AyyanYe)
-[Email](ayyanahmed@outlook.com)
+- **Ayyan Ahmed**
+- [GitHub Profile](https://github.com/AyyanYe)
+- [Email](ayyanahmed@outlook.com)
