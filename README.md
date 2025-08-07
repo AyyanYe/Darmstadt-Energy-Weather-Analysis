@@ -97,5 +97,5 @@ This project is licensed under the MIT License.
 
 ## Author
 **Ayyan Ahmed**
-GitHub Profile
-Email: your-email@example.com
+[GitHub Profile](https://github.com/AyyanYe)
+[Email](ayyanahmed@outlook.com)
